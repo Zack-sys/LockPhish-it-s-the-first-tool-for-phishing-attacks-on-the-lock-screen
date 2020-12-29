@@ -4,7 +4,8 @@
 
 Features:  
 *Lockscreen phishing page for Windows, Android and iPhone  
-*Auto detect device  *IP Tracker  
+*Auto detect device  
+*IP Tracker  
 
 Installation :  
 $ git clone https://github.com/JasonJerry/lockphish/  
